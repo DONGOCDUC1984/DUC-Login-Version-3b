@@ -1,0 +1,6 @@
+.active {
+  background-color: aqua;
+}
+.nav-item:hover {
+  background-color: aqua;
+}

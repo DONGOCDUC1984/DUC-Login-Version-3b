@@ -1,0 +1,13 @@
+body {
+  font-size: 25px !important;
+}
+
+button,
+input {
+  font-size: 25px;
+  border-radius: 5px !important;
+}
+
+button:hover {
+  background-color: yellowgreen;
+}

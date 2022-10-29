@@ -23,7 +23,7 @@ Introduction:
 
 DUC Login 3b: DUC Login 3b is a website totally created by DO NGOC DUC alone.
 
-Functions: Login,register, C.R.U.D (Create , Read, Update, Delete),Admin...
+Functions: Login,register,comment , C.R.U.D (Create , Read, Update, Delete),Admin...
 
 Technologies : MERN :
 
